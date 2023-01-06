@@ -1,0 +1,8 @@
+Garden filter=lfs diff=lfs merge=lfs -text
+Installation.mp4 filter=lfs diff=lfs merge=lfs -text
+imgz/MSU-STA380 filter=lfs diff=lfs merge=lfs -text
+TV filter=lfs diff=lfs merge=lfs -text
+Installation.MOV filter=lfs diff=lfs merge=lfs -text
+imgz/MSU-STA380-TV-Garden-Installation.MOV filter=lfs diff=lfs merge=lfs -text
+imgz/MSU-STA380TVGardenInstallation.MOV filter=lfs diff=lfs merge=lfs -text
+*.MOV filter=lfs diff=lfs merge=lfs -text
