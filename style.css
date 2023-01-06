@@ -1,0 +1,222 @@
+@import url('https://fonts.googleapis.com/css2?family=Didact+Gothic&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@400;700;900&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;800;900&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;500;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+img{
+    max-width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.cover{
+    background-color: #f1f1f1;
+}
+.cvrtxt{
+color: #f1f1f1;
+font-family: 'Didact Gothic', sans-serif;
+font-weight: 900;
+text-transform: uppercase;
+position: absolute;
+}
+.contest{
+color: #f1f1f1;
+font-family: 'Jost', sans-serif;
+font-weight: 700;
+text-transform: capitalize;
+position: absolute;
+}
+.menu-icon {
+  color: aquamarine;
+}
+.hero1 {
+  height: 100%;
+  padding-right: 8rem;
+  padding-top: 20vh;
+}
+.blue{
+  background-color: #1c86bd;
+  margin-top: 20vh;
+}
+
+.logo {
+  margin-left: 4rem;
+  padding-top: 1em;
+}
+
+.title-bar {
+  background: #020913;
+  cursor: pointer;
+}
+.top-bar {
+  background: transparent;
+  font-family: "Bebas Neue", cursive;
+}
+
+.items {
+  margin-right: 5%;
+  padding-top: 20px;
+}
+.header a {
+  padding: 0 20px;
+  color: #f1f1f1;
+  text-transform: uppercase;
+  font-family: "Poppins", sans-serif;
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+.header a:hover {
+  color: #e1b00d;
+}
+.headerz a {
+  padding: 0 20px;
+  color: #13020b;
+  text-transform: uppercase;
+  font-family: "Poppins", sans-serif;
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+.headerz a:hover {
+  color: #e1b00d;
+}
+.fullnav{
+  background-image: url(./imgz/coverimg.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+.hotchicken{
+    font-size: 70px;
+    font-weight: 700;
+}
+.t_shirt{
+    border: 5px solid #13020b;
+}
+.teetext{
+    font-size: 12px;
+}
+.poster{
+    border: 5px solid #13020b;
+}
+.p1c{
+    border: 5px solid #13020b;
+}
+.p2c{
+    border: 5px solid #13020b;
+}
+.p3c{
+    border: 5px solid #13020b;
+}
+.finp1c{
+    border: 5px solid #13020b;
+}
+.finp2c{
+    border: 5px solid #13020b;
+}
+.finp3c{
+    border: 5px solid #13020b;
+}
+.p3c{
+    border: 5px solid #13020b;
+}
+.mind{
+    border: 5px solid #13020b;
+    border-radius: 3px;
+    padding: 30px;
+}
+.friend{
+    border: 5px solid #13020b;
+
+}
+.stage{
+    border: 5px solid #13020b;
+}
+.puppets{
+    border: 5px solid #13020b;
+}
+.wiseog{
+    border: 5px solid #13020b;
+}
+.wisenitro{
+    border: 5px solid #13020b;
+}
+.wiseorigin{
+    border: 5px solid #13020b;
+}
+.ghoul{
+    border: 5px solid #13020b;
+}
+.abimg{
+    border: 5px solid #13020b;
+}
+.abimg2{
+    border: 5px solid #13020b;
+}
+.posttext{
+    font-size: 12px;
+}
+input[type=text], select, textarea {
+   
+  padding: 12px;   
+  border: 1px solid #ccc; 
+  border-radius: 4px; 
+  box-sizing: border-box; 
+  margin-top: 6px; 
+  margin-bottom: 16px; 
+  resize: vertical;
+  font-size: 20px;
+}
+input[type=submit] {
+  background-color: #36c2ed;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 20px;
+}
+input[type=submit]:hover {
+  background-color: #e4df52;
+}
+input[type=text] {
+  width: 250px;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 20px;
+  background-color: white;
+  background-position: 10px 10px; 
+  background-repeat: no-repeat;
+  padding: 12px 20px 16px 40px;
+  transition: width 0.4s ease-in-out;
+}
+
+input[type=text]:focus {
+  width: 100%;
+}
+select {
+  width: 250px;
+  padding: 16px 20px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: #f1f1f1;
+  font-size: 18px;
+}
+
+.container{
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 64px;
+  margin-left: 48px;
+  margin-right: 48px;
+}
+.begin{
+  text-transform: uppercase;
+  color: #f1f1f1;
+  text-shadow: 4px 2px #13020b;
+}
